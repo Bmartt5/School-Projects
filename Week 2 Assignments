@@ -1,1 +1,28 @@
+After going through the learning activities, and installing the five databases from the book's website, solve 
+the following exercises from the "Problems for you to solve" section of chapter 4:
 
+__________________________________________________________
+School Schedule Database #1 - 
+Show me a complete list of all the subjects we offer
+
+SELECT DISTINCT SubjectName AS [Subjects WE Offer]
+FROM Subjects
+ORDER BY SubjectName ASC
+//////////////////////////////////////////////////////////
+__________________________________________________________
+School Schedule Database #2 - 
+What kinds of titles are associated with our faculty?
+
+SELECT DISTINCT Title AS [Titles]
+FROM Faculty
+ORDER BY Titles
+//////////////////////////////////////////////////////////
+__________________________________________________________
+Bowling League Database #1 - 
+List all of the teams in alphabetical order
+
+SELECT Distinct TeamName AS 'Teams by Alphabet'
+FROM Teams
+ORDER BY Team ASC
+//////////////////////////////////////////////////////////
+__________________________________________________________
