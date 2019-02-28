@@ -8,6 +8,8 @@ Show me a complete list of all the subjects we offer
 SELECT DISTINCT SubjectName AS [Subjects WE Offer]
 FROM Subjects
 ORDER BY SubjectName ASC
+
+
 //////////////////////////////////////////////////////////
 __________________________________________________________
 School Schedule Database #2 - 
