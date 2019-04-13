@@ -1,6 +1,6 @@
 Version 1.0
 
-Module 3 Assignment
+**Module 3 Assignment**
 
 Write a program that does spell checking. The program should do spell checking as follows,
 
@@ -13,9 +13,9 @@ For each word in the document file, if that word doesn't exist in the dictionary
 Submit your source code and a couple of screen shots showing your program in action
 Add your spell checker application to your GitHub repo. Submit a screen shot
 
-Version 2.0
+***Version 2.0***
 
-Module 7 Assignment
+**Module 7 Assignment**
 
 Update your "spell checker" application. Put a UI on top of the spell checking class.
 
@@ -23,17 +23,17 @@ Try to follow the UI guidelines and practices that you learned about, so that th
 
 Submit your .java files for the application, and a couple of screen shots of your program in action.
 
-Version 3.0
+***Version 3.0***
 
-Module 8 Assignment
+**Module 8 Assignment**
 
 Update your "spell checker" application. Add unit testing to the spell checking class.
 
 Submit your .java files for the application, and a couple of screen shots of your unit test results.
 
-Version 4.0
+***Version 4.0***
 
-Module 11 Assignment
+**Module 11 Assignment**
 
 Add database support to your spell checking application.
 
