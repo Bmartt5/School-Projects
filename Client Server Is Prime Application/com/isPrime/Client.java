@@ -20,7 +20,7 @@ import javafx.stage.Stage;
 
 //Date: 4/25/2019
 //Program Name: client/server Is Prime Application
-//Purpose: The program should do spell checking
+//Purpose: The program should accept input from the user and determine if that number is prime or not.
 
 public class Client extends Application {
 	// IO streams
